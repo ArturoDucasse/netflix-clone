@@ -1,0 +1,33 @@
+.imageContainer {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+.imageContainer::-webkit-scrollbar {
+  display: none;
+}
+
+.imageRow {
+  object-fit: contain;
+  width: 100%;
+  max-height: 100px;
+  margin-right: 10px;
+  transition: transform 500ms;
+}
+
+.imageRow:hover {
+  transform: scale(1.05);
+}
+
+.subTitle {
+  color: white;
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+}
+
+.netflixOriginal {
+  max-height: 250px;
+}

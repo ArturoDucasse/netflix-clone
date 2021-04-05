@@ -37,7 +37,7 @@ function Row({ title, movieTitles, isNetflixOriginal }) {
               const urlParams = new URLSearchParams(new URL(url).search);
               setTrailerUrl(urlParams.get("v"));
             } else {
-              //Todo? What should happen when url is not found
+              setTrailerUrl("");
             }
           })
           .catch((err) => console.log(err));

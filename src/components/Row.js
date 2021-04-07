@@ -15,7 +15,6 @@ function Row({ title, movieTitles, isNetflixOriginal }) {
       setMovie(request.data.results);
       return request;
     };
-    //
     fetchData();
   }, [movieTitles]);
 

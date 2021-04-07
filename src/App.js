@@ -16,6 +16,12 @@ function App() {
         isNetflixOriginal
       />
       <Row title="Trending Now" movieTitles={requests.fetchTrending} />
+      <Row title="Top Rated" movieTitles={requests.fetchTopRated} />
+      <Row title="Action Movies" movieTitles={requests.fetchActionMovies} />
+      <Row title="Comedy Movies" movieTitles={requests.fetchComedyMovies} />
+      <Row title="Horror Movies" movieTitles={requests.fetchHorrorMovies} />
+      <Row title="Romance Movies" movieTitles={requests.fetchRomanceMovies} />
+      <Row title="Documentaries" movieTitles={requests.fetchDocumentaries} />
     </div>
   );
 }

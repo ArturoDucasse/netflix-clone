@@ -19,7 +19,7 @@ function Banner({ movieTitles }) {
     };
     //
     fetchData();
-  }, []);
+  }, [movieTitles]);
 
   return (
     <header

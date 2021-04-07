@@ -1,7 +1,7 @@
 import { API_KEY } from "../utils/axios";
 
 /**
- *Exporting the API calls
+ *Exporting the API end points
  */
 const requests = {
   fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,

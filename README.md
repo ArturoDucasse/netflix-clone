@@ -1,7 +1,7 @@
 # Netflix Clone
 
 <h2 align="center">
-  <img src="https://github.com/" alt="Netflix Clone" width="600px" />
+  <img src="https://github.com/R2rit0/netflix-clone/blob/485e33a868cc10cb1bdb0944952b982ca976f32e/public/Netflix-capture.png" alt="Netflix Clone" width="600px" />
   <br>
 </h2>
 

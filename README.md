@@ -4,7 +4,9 @@
   <img src="https://github.com/" alt="Netflix Clone" width="600px" />
   <br>
 </h2>
+
 ---
+
 ## Prerequisites 📋
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed.

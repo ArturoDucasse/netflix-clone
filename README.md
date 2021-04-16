@@ -1,59 +1,74 @@
-# netflix-clone
+# Netflix Clone
+---
+## Prerequisites 📋
 
-# Description
-Netflix clone 
+You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed.
+```
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
+```
 
-# Prerequisites
+## Dependencies 🗃️
 - @testing-library/jest-dom
-
-```npm i @testing-library/jest-dom```
 - @testing-library/react
- 
-```npm i @testing-library/react```
 - @testing-library/user-event
-
-```npm i @testing-library/user-event```
 - axios
- 
-```npm i axios```
- - movie-trailer
-  
-```npm i movie-trailer```
+- movie-trailer
 - react
- 
-```npm i react```
 - react-dom
-
-```npm i react-dom```
 - react-scripts
-
-```npm i react-scripts```
 - react-youtube
-
-```npm i react-youtube```
 - web-vitals
+---
 
-```npm i web-vitals```
-# Installation
-```
-npm install 
-```
-```
-npm start
-```
-Staring the developming mode
-```
-npm run develop
-```
-Testing
-```
-npm test
+## How To Use 🔧
+
+From your command line, first clone netflix-clone:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/R2rit0/netflix-clone.git
+
+# Go into the repository
+$ cd netflix-clone
+
+# Remove current origin repository
+$ git remote remove origin
 ```
 
-# Contributing
-Issue Tracker: github.com/project/issues
+Then you can install the dependencies:
 
-# Contact 
+```bash
+# Install dependencies
+$ npm install
+
+# Start development server
+$ npm run develop
+
+# Start testing
+$ npm test
+```
+---
+
+## Technologies used 🛠️
+
+- [firebase](https://firebase.google.com/) - Platform developed by Google for creating mobile and web applications
+- [React](https://es.reactjs.org/) - Front-End JavaScript library
+- [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+
+
+## Acknowledgments 🎁
+
+Thanks to [Clever Programmer](https://github.com/aneagoie), I used skills learned from this channel into this project.
+
+## Contributing 💡
+Issue Tracker: github.com/netflix-clone/issues
+
+---
+
+# Contact 💬
 - [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=ArturoM.Ducasse@gmail.com&su=Job-related&tf=cm "Gmail direct link")
 - [Github](https://github.com/R2rit0 "Github profile")
 - [Discord](https://discordapp.com/users/362837852507209730/ "Discord profile")

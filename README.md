@@ -1,4 +1,9 @@
 # Netflix Clone
+
+<h2 align="center">
+  <img src="https://github.com/" alt="Netflix Clone" width="600px" />
+  <br>
+</h2>
 ---
 ## Prerequisites 📋
 

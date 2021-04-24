@@ -7,6 +7,10 @@
 
 ---
 
+## Description 📄
+What your application does,
+Website that simulates the popular app Netflix. Made with react since is one page project, and taking advantage on how react handles the rendering of multiple objects. Also used Axios, for how simple makes fetching data, and promise base. 
+
 ## Prerequisites 📋
 
 You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [NPM](http://npmjs.com)) installed.
